@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Info box colors for dark mode -->
+    <color name="info_box_background">#2C2C2C</color>
+    <color name="info_box_border">#404040</color>
+</resources>
+

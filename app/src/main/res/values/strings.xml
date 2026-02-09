@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HuellaCarbono</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Calculadora</string>
+    <string name="title_notifications">Resultados</string>
+
+    <!-- Home -->
+    <string name="home_title">¿Qué es la Huella de Carbono?</string>
+    <string name="home_description">La huella de carbono es la cantidad total de gases de efecto invernadero (GEI) emitidos directa o indirectamente por una persona, organización, evento o producto. Se mide en toneladas de dióxido de carbono equivalente (CO₂e).</string>
+    <string name="home_info">Esta aplicación te ayudará a calcular tu huella de carbono personal considerando tres aspectos principales:\n\n• Entorno Familiar: consumo de electricidad y gas\n• Transporte: uso de vehículos y transporte público\n• Estilo de Vida: alimentación y generación de residuos</string>
+
+    <!-- Dashboard / Calculadora -->
+    <string name="calc_title">Calculadora de Huella de Carbono</string>
+    <string name="family_title">🏠 Entorno Familiar</string>
+    <string name="transport_title">🚗 Transporte</string>
+    <string name="lifestyle_title">🍽️ Estilo de Vida</string>
+    <string name="electricity_label">Consumo eléctrico mensual (kWh):</string>
+    <string name="gas_label">Consumo de gas mensual (m³):</string>
+    <string name="car_km_label">Kilómetros en auto/mes:</string>
+    <string name="public_transport_label">Kilómetros en transporte público/mes:</string>
+    <string name="meat_label">Consumo de carne semanal (kg):</string>
+    <string name="waste_label">Residuos generados/mes (kg):</string>
+    <string name="calculate_button">Calcular Huella de Carbono</string>
+    <string name="reset_button">Limpiar</string>
+</resources>
